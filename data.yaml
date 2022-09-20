@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 13
+names: ['priority road', 'passing right only', 'max 100', 'stopping forbidden', 'pedestrians and cyclists', 'max 70', 'no overtaking', 'max 80', 'parking permitted', 'max 50', 'pedestrian crossing', 'max 60', 'passing left compulsory']
