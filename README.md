@@ -28,5 +28,9 @@ All traffic signs can be detected by their position on the picture or video whic
 
 #### Video:
 
-https://youtu.be/rrQoJQ3qZlw
+https://youtu.be/rrQoJQ3qZlw (better quality)
+
+
+https://user-images.githubusercontent.com/49883837/193449781-face5bc5-0395-4500-b14d-b155f02f47cf.mp4
+
 
